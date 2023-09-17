@@ -14,4 +14,9 @@ echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> 
 brew install fzf
 $(brew --prefix)/opt/fzf/install
 
-# startship
+# starship
+brew install starship
+cp ./starship.toml ~/.config/
+
+# nimblenote
+brew install nimblenote
