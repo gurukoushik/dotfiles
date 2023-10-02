@@ -20,3 +20,7 @@ cp ./starship.toml ~/.config/
 
 # nimblenote
 brew install nimblenote
+
+# useful cli tools
+brew install bat
+brew install dust
