@@ -24,3 +24,4 @@ brew install nimblenote
 # useful cli tools
 brew install bat
 brew install dust
+brew install ripgrep
