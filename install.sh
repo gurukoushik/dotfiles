@@ -21,6 +21,9 @@ cp ./starship.toml ~/.config/
 # nimblenote
 brew install nimblenote
 
+# ranger
+pip3 install ranger-fm
+
 # useful cli tools
 brew install bat
 brew install dust
